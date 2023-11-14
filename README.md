@@ -13,7 +13,8 @@
 python3 main.py
 ```
 检测结果展示
-![]image(img/result.png)
+
+![]image(https://github.com/phoenixmerk/k8s-role-master/blob/main/img/result.png)
 
 
 ## 脚本说明
