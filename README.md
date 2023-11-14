@@ -12,13 +12,8 @@
 ```bash
 python3 main.py
 ```
-
-输入数字选择想要执行的脚本
-
-
-
 检测结果展示
-
+![]image(img/result.png)
 
 
 ## 脚本说明
